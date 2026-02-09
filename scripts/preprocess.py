@@ -1,8 +1,6 @@
 import cv2
 import os
 
-
-
 def convert_to_yolo(x_min:int, x_max:int, y_min:int, y_max:int, w:int, h:int):
     """Converts the image files (currently in absolute pixel values and the format x_min, y_min, x_max, y_max) into
         a format that is needed to train YOLO models. This function converts it into values between 0-1 and into the format 
