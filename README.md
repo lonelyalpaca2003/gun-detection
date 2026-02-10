@@ -138,10 +138,6 @@ Key dependencies (see `pyproject.toml` for full list):
 - numpy
 - matplotlib
 
-## License
-
-[Add your license here]
-
 ## Acknowledgments
 
 Dataset: [Guns Object Detection](https://www.kaggle.com/datasets/issaisasank/guns-object-detection) by Issai Sasank
