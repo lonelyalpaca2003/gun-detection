@@ -1,6 +1,3 @@
-# gun-detection-
-
-
 # Gun Detection
 
 Object detection system for identifying firearms in images using YOLOv26n.
